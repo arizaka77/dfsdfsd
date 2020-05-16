@@ -12,6 +12,6 @@ fun main(args: Array<String>) {
     bob.sayHello()          // Hello
     println(bob.getInfo())  // Name: Bob  Age: 23
             //
-    ///
+    ///лулулу
     //
 }

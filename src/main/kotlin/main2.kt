@@ -11,4 +11,5 @@ fun main(args: Array<String>) {
     val bob: Person = Person("Bob", 23) //создание объекта
     bob.sayHello()          // Hello
     println(bob.getInfo())  // Name: Bob  Age: 23
+    //
 }

@@ -13,5 +13,5 @@ fun main(args: Array<String>) {
     println(bob.getInfo())  // Name: Bob  Age: 23
             //
     ///лулулу
-    //
+    //3123
 }

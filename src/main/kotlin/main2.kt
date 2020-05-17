@@ -15,4 +15,7 @@ fun main(args: Array<String>) {
     val alice: Person = Person("Alice", 32)
     //нужно сделать commit
     //commit -- сохранить изменения(пока локально!!!) ГО СДЕЛАЕМ
+
+
+    //я снова в мастер-ветке!
 }

@@ -8,14 +8,16 @@ class Person(val name: String, val age: Int){//первичный констру
 }
 
 fun main(args: Array<String>) {
-    val bob: Person = Person("Bob", 23) //создание объекта
-    bob.sayHello()          // Hello
-    println(bob.getInfo())  // Name: Bob  Age: 23
+    val alice: Person = Person("Bob", 23) //создание объекта
+    alice.sayHello()          // Hello
+    println(alice.getInfo())  // Name: Bob  Age: 23
     //внёс изменения
-    val alice: Person = Person("Alice", 32)
+    val bob: Person = Person("Alice", 32)
+    println(bob.getInfo())
     //нужно сделать commit
     //commit -- сохранить изменения(пока локально!!!) ГО СДЕЛАЕМ
     //----------------
     //Создаем новую ветку(branch) checkout - переключение (между ветками)
     //Создал ветку
+    //---В новой ветке внес изменения
 }

@@ -14,6 +14,7 @@ fun main(args: Array<String>) {
     //внёс изменения
     val bob: Person = Person("Alice", 32)
     println(bob.getInfo())
+    println("Hi")
     //нужно сделать commit
     //commit -- сохранить изменения(пока локально!!!) ГО СДЕЛАЕМ
     //----------------

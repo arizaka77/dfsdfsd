@@ -11,5 +11,9 @@
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
     </wildcardResourcePatterns>
+    <bytecodeTargetLevel>
+      <module name="asdasf_main" target="11" />
+      <module name="asdasf_test" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -11,7 +11,8 @@ fun main(args: Array<String>) {
     val bob: Person = Person("Bob", 23) //создание объекта
     bob.sayHello()          // Hello
     println(bob.getInfo())  // Name: Bob  Age: 23
-            //
-    ///лулулу
-    //3123я
+    //внёс изменения
+    val alice: Person = Person("Alice", 32)
+    //нужно сделать commit
+    //commit -- сохранить изменения(пока локально!!!) ГО СДЕЛАЕМ
 }

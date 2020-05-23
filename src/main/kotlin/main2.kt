@@ -5,6 +5,9 @@ class Person(val name: String, val age: Int){//первичный констру
     fun getInfo() : String{
         return "Name: $name  Age: $age"
     }
+    fun speak(val msg){
+        println(msg)
+    }
 }
 // Skrill1945 исправил комменты (добавил пробельчики)))
 fun main(args: Array<String>) {
